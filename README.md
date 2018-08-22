@@ -2,7 +2,9 @@
 
 > Social Network for Web Developers built with the MERN Stack
 
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Dependency Status]
+<img src="https://res.cloudinary.com/dxbk4zeyc/image/upload/v1534912326/devconnector.png" title="FVCproductions" alt="FVCproductions">
+
+[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 
 ## Built With
 
